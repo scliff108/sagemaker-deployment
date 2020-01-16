@@ -8,7 +8,6 @@ Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/mas
 
 - [Jupyter Notebook](./SageMaker%20Project.ipynb)
 - [HTML Export of Notebook](./report.html)
-- [PDF Export of Notebook](./report.pdf)
 - [Completed train.py](./train/train.py)
 - [Complete predict.py](./serve/predict.py)
 - [Edited index.html](./website/index.html)
